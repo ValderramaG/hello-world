@@ -1,2 +1,3 @@
 # hello-world
-My new repository
+Hey! You're probably one of my classmates so...
+Thank your for giving me a shot, I hope you enjoy what you're about to see
