@@ -1,3 +1,4 @@
 # hello-world
-Hey! You're probably one of my classmates so...
-Thank your for giving me a shot, I hope you enjoy what you're about to see
+My new repository
+Well, my name is Gerardo Valderrama and I'm studying Information Systems Engineering.
+
